@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="myimage">
+    <file>Weather_sunny.png</file>
+    <file>temp_max.png</file>
+    <file>precipitation.png</file>
+    <file>wind-power.png</file>
+    <file>bk1.png</file>
+    <file>bk2.png</file>
+    <file>bk3.png</file>
+    <file>bk4.png</file>
+    <file>bk5.png</file>
+    <file>yawn.png</file>
+    <file>yoga.png</file>
+    <file>MONKEY.png</file>
+    <file>relaxed.png</file>
+    <file>monkey.webp</file>
+    <file>UTE.jpg</file>
+    <file>UTE_2.png</file>
+    <file>HMCUTE.jpg</file>
+    <file>weather_snow.png</file>
+    <file>weather_rain.png</file>
+    <file>weather_drizzle.png</file>
+    <file>weather_fog.png</file>
+    <file>cloudy.png</file>
+    <file>lamp_onn_giff.gif</file>
+    <file>temp.png</file>
+    <file>humidity.png</file>
+    <file>air_conditioner_off.png</file>
+    <file>air_conditioner_on.png</file>
+    <file>fan_off.png</file>
+    <file>fan_on.png</file>
+    <file>gate_off.png</file>
+    <file>gate_on.png</file>
+    <file>lamp_off.png</file>
+    <file>lamp_on.png</file>
+  </qresource>
+</RCC>
