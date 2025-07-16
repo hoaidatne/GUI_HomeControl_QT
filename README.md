@@ -4,9 +4,9 @@ HomeControl-IOT là một hệ thống điều khiển và giám sát các thi�
 Giao diện người dùng (GUI) được thiết kế trực quan và thân thiện, cho phép người dùng dễ dàng theo dõi và điều khiển các thiết bị IoT từ xa.
 
 Các tính năng chính:
-Giám sát nồng độ khí gas: Hiển thị biểu đồ nồng độ khí gas theo thời gian thực (ppm) và đưa ra cảnh báo khẩn cấp khi phát hiện nồng độ cao, giúp đảm bảo an toàn cho gia đình. ⚠️
+Giám sát nồng độ khí gas: Hiển thị biểu đồ nồng độ khí gas theo thời gian thực (ppm) và đưa ra cảnh báo khẩn cấp khi phát hiện nồng độ cao, giúp đảm bảo an toàn cho gia đình. 
 
-Thống kê lượng điện tiêu thụ: Cung cấp biểu đồ cột thể hiện lượng điện tiêu thụ hàng ngày trong tuần (kWh), giúp người dùng quản lý và tối ưu hóa việc sử dụng năng lượng. ⚡
+Thống kê lượng điện tiêu thụ: Cung cấp biểu đồ cột thể hiện lượng điện tiêu thụ hàng ngày trong tuần (kWh), giúp người dùng quản lý và tối ưu hóa việc sử dụng năng lượng. 
 
 Điều khiển thiết bị thông minh:
 
